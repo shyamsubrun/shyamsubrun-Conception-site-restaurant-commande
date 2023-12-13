@@ -47,6 +47,7 @@ La base de données est gérée avec PHPMyAdmin et suit une structure adaptée a
 - Les utilisateurs peuvent ajouter des plats au panier et passer des commandes.
 - Les administrateurs peuvent gérer le menu et suivre les commandes en cours.
 
-  
-![Uploading image2.png…]()
-![image](https://github.com/shyamsubrun/shyamsubrun-Conception-site-restaurant-commande/assets/113545721/5d75c542-068c-4ffa-b0fc-3f641d524eae)
+  ![image2](https://github.com/shyamsubrun/shyamsubrun-Conception-site-restaurant-commande/assets/113545721/be46b632-ff7a-462f-9411-2fa483e43619)
+
+![image](https://github.com/shyamsubrun/shyamsubrun-Conception-site-restaurant-commande/assets/113545721/81c19b57-3942-4a9e-8672-1ac9bceb1713)
+

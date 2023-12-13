@@ -46,3 +46,7 @@ La base de données est gérée avec PHPMyAdmin et suit une structure adaptée a
 - Ce projet utilise un stack technologique basique avec PHP, JavaScript, HTML, CSS, et PHPMyAdmin pour la gestion de la base de données.
 - Les utilisateurs peuvent ajouter des plats au panier et passer des commandes.
 - Les administrateurs peuvent gérer le menu et suivre les commandes en cours.
+
+  
+![Uploading image2.png…]()
+![image](https://github.com/shyamsubrun/shyamsubrun-Conception-site-restaurant-commande/assets/113545721/5d75c542-068c-4ffa-b0fc-3f641d524eae)
